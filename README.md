@@ -2,9 +2,10 @@
 AppWebOCO
 
 Sur ce GitHub vous allez retrouver une application web qui permet de configurer votre objet connecté, qui est un distributeur de croquettes.
-La création de cet objet intervient dans le cadre de la matière objet connecté dispensé à l'IG2I de centrale Lille par les enseignants Le Glaz Isabelle et Bourdeaud Huy Thomas. Lors de cet enseignement nous avons pu penser et concevoir un objet connecté. Dans ce compte-rendu la démarche que nous avons adoptée vous sera présentée mais également les solutions que nous avons réalisées.
-Ci-dessous veuillez retrouver le script permettant de configurer votre Raspberry Pi:
 
+La création de cet objet intervient dans le cadre de la matière objet connecté dispensé à l'IG2I de centrale Lille par les enseignants Le Glaz Isabelle et Bourdeaud Huy Thomas. Lors de cet enseignement nous avons pu penser et concevoir un objet connecté. Dans ce compte-rendu la démarche que nous avons adoptée vous sera présentée mais également les solutions que nous avons réalisées.
+
+Ci-dessous veuillez retrouver le script permettant de configurer votre Raspberry Pi:
 
 ```
 #!/bin/bash
